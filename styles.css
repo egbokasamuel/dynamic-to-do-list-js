@@ -66,3 +66,14 @@ li {
 .remove-btn:hover {
     background-color: #d9534f;
 }
+
+/* Add this to styles.css */
+.task-item {
+    background-color: #eeeeee;
+    margin-top: 8px;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
